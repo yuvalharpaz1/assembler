@@ -1,0 +1,3 @@
+﻿  assembler.c
+c:\users\יובל\onedrive\שולחן העבודה\c_files\assembler\assembler\assembler.c(387): warning C4013: 'tolower' undefined; assuming extern returning int
+  assembler.vcxproj -> C:\Users\יובל\OneDrive\שולחן העבודה\C_files\assembler\Debug\assembler.exe
